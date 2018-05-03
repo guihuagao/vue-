@@ -1,5 +1,5 @@
 # vue-vux
-vue+vux+less+axios+webpack项目
+vue+vue-router+vux+less+axios+webpack+es6项目
 
 ## Build Setup
 
